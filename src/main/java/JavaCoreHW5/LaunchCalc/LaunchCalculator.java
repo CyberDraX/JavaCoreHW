@@ -1,4 +1,4 @@
-package LaunchCalc;
+package JavaCoreHW5.LaunchCalc;
 
 class LaunchCalculator {
     public int calculateTotalPrice(Spaceport spaceport, int passengerCount) {

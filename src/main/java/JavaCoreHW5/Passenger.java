@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 abstract class Passenger {
     public abstract String getType();
     public abstract int getTicketPrice();

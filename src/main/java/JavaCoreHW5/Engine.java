@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 public class Engine {
 
     public int getPower() {

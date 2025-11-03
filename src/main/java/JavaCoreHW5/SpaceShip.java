@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 public class SpaceShip {
 
     private String name;

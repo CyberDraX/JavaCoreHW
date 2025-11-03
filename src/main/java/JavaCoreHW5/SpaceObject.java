@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 abstract class SpaceObject {
 }
 

@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 public class Planets {
 
     public static final String MERCURY = "Mercury";

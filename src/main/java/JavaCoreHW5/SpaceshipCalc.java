@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 public class SpaceshipCalc {
 
     final int calculateAirBalloons(int passengerCount) {

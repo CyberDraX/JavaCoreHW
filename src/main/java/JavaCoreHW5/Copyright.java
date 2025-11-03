@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 final class Copyright {
 
     public void print() {

@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 public class Tanker {
     public String getSerialNumber() {
         return serialNumber;

@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 class RocketLauncher {
     private String size;
     private int rocketCount;

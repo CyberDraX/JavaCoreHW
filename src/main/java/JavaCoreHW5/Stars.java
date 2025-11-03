@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 public class Stars {
 
     private int count;

@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 public class SpaceportMessages {
 
     public static String generateLandingMessage(String shipName, String spaceport, String time) {

@@ -1,3 +1,5 @@
+package JavaCoreHW5;
+
 import java.util.Objects;
 
 class StarTrackTest {

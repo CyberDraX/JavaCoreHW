@@ -1,4 +1,4 @@
-package JavaCoreHW5.Task33;
+package Task33;
 
 class Launcher {
     public static void main(String[] args) {
