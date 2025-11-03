@@ -3,7 +3,6 @@ package JavaCoreHW6;
 class HeroTest {
     public static void main(String[] args) {
         Hero hero = new Hero("Stranger", 50);
-        //System.out.println(new Hero("Stranger", 50).getName());
 
         //Expect Paratrooper
         System.out.println(hero.getName());
@@ -21,6 +20,8 @@ class Hero {
     }
 
     public Hero(String name, int hp) {
+        hp = Math.max(hp, 0);
+        hp = Math.min(hp, 200);
         this.name = name;
         this.hp = hp;
     }
