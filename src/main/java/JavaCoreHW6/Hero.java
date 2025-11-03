@@ -2,8 +2,8 @@ package JavaCoreHW6;
 
 class HeroTest {
     public static void main(String[] args) {
-        //Hero hero = new Hero();
         Hero hero = new Hero("Stranger", 50);
+        //System.out.println(new Hero("Stranger", 50).getName());
 
         //Expect Paratrooper
         System.out.println(hero.getName());
@@ -17,8 +17,7 @@ class Hero {
     private int hp;
 
     public Hero() {
-        name = "Paratrooper";
-        hp = 100;
+        this("Paratrooper", 100);
     }
 
     public Hero(String name, int hp) {
